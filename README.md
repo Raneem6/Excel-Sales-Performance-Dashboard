@@ -1,20 +1,22 @@
 # Excel Sales Performance Dashboard
 
-An interactive Excel dashboard focused on sales performance, campaign spend, training activity, and team-level results, with dedicated Light and Dark dashboard views.
+Interactive Excel dashboard focused on sales performance, campaign spend, training activity, and team-level results, with dedicated Light and Dark versions.
 
-## Dashboard previews
+## Dashboard Previews
 
-| Light Mode | Dark Mode |
-|---|---|
-| ![Light mode dashboard](<Screenshot Light mood.png>) | ![Dark mode dashboard](<Screenshot dark mood.png>) |
+### Light Mode
+![Light mode dashboard](Screenshot%20Light%20mood.png)
 
-## Objective
+### Dark Mode
+![Dark mode dashboard](Screenshot%20dark%20mood.png)
 
-Design a polished Excel reporting experience that combines KPI monitoring, sales-team analysis, and interactive navigation in a business-style dashboard.
+## Project Overview
 
-## Dashboard highlights
+The project presents a business-style reporting experience that combines KPI monitoring, sales-team analysis, campaign-spend views, and interactive navigation.
 
-- Light and Dark viewing modes
+## Dashboard Highlights
+
+- Light and Dark dashboard versions
 - KPI cards for earnings, paid calls, registered training courses, and advertising spend
 - Monthly earnings analysis
 - Sales-team and consultant performance views
@@ -23,30 +25,26 @@ Design a polished Excel reporting experience that combines KPI monitoring, sales
 - Navigation to the underlying database sheet
 - Interactive slicers, charts, and filters
 
-## Tools and techniques
+## Tools & Skills
 
-- Microsoft Excel
-- PivotTables
-- Formulas and named ranges
-- Conditional formatting
-- Dynamic buttons and slicers
-- Charts and KPI design
+**Microsoft Excel** · **PivotTables** · **Formulas** · **Named Ranges** · **Conditional Formatting** · **Slicers** · **Charts** · **KPI Design**
 
-## Files
+## Repository Files
 
 - `Dashboard_Light Mode.xlsx` — Light Mode workbook
 - `Dashboard_Dark Mode.xlsx` — Dark Mode workbook
 - `Screenshot Light mood.png` — Light Mode preview
 - `Screenshot dark mood.png` — Dark Mode preview
 
-## How to use
+## How to Explore
 
 Open either workbook in Microsoft Excel and use the dashboard controls, filters, and slicers to explore the analysis. Refresh PivotTables after changing source data when needed.
 
-## Project note
+## Portfolio Note
 
 All figures and data are simulated for portfolio and training purposes and do not represent a real company or commercial dataset.
 
 ## Author
 
-Raneem Alzahrani · [LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home)
+**Raneem Alzahrani**  
+[LinkedIn](https://www.linkedin.com/in/raneem-alzhrani-/) · [Portfolio](https://sites.google.com/view/raneemalzahrany/home) · [GitHub](https://github.com/Raneem6)
